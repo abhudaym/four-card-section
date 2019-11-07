@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.heeding{
+    text-align: center;
+    font-weight: 200;
+    font-size: 2rem;
+    margin-bottom: 15px;
+    padding-top: 70px;
+}
+
+.subtitle1{
+    font-weight: 600;
+}
+
+.bodytext{
+    text-align: center;
+    color: hsl(229, 6%, 66%);
+    font-size: 14px;
+    width: 600px;
+}
+
+.card{
+    width: 300px;
+}
+
+.card-header{
+    margin-top: 10px; 
+    border-bottom: 0 none;
+    font-weight: 600;
+}
+
+.card-body{
+    color: hsl(229, 6%, 66%);
+    font-size: 12px;
+}
+
+.card{
+    border-top: solid;
+    border-top-color: hsl(180, 62%, 55%);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.imgavatar{
+    position: relative;
+    left: 70%;
+    margin-bottom: 30px;
+}
